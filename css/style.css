@@ -7,10 +7,22 @@ body{
     line-height:1.6;
 }
 #showcase{
-    background-image: url("../images/sky.jpeg");
-    height:100vh;
-    width:100vh;
+    background-image:url(../images/gala.jpeg);
+    height:120vh;
+    width:170vh;
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
 }
+
+h1 {
+    color: brown;
+    text-align: center;
+  }
+  
+  p {
+    color: brown;
+    text-align: center;
+  }
+  
+  
     
